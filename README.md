@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Carlobellido
 - 👀 I'm very curious about the world and how things work
 - 😎 I speak Spanish , Italian , English and a little bit of Japanese
-- 🌱 I’m currently learning JS , React , Chinese and i would like to improve my Css skills 
+- 🌱 I’m currently learning JavaScript , React , Chinese and i would like to improve my CSS skills 
 - 📫 How to reach me  : carlo0409@gmail.com
 - ⚡ Fun fact: I have a passion for languages, I enjoy talking with people from different countries and I love learning about different cultures and discovering the unique aspects that make each one special.
 
